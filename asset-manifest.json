@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Viha57/lab2.git/static/css/main.334c1bb3.css",
+    "main.js": "/Viha57/lab2.git/static/js/main.5af58b87.js",
+    "static/js/787.8eb42f38.chunk.js": "/Viha57/lab2.git/static/js/787.8eb42f38.chunk.js",
+    "index.html": "/Viha57/lab2.git/index.html",
+    "main.334c1bb3.css.map": "/Viha57/lab2.git/static/css/main.334c1bb3.css.map",
+    "main.5af58b87.js.map": "/Viha57/lab2.git/static/js/main.5af58b87.js.map",
+    "787.8eb42f38.chunk.js.map": "/Viha57/lab2.git/static/js/787.8eb42f38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334c1bb3.css",
+    "static/js/main.5af58b87.js"
+  ]
+}
